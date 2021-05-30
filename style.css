@@ -1,0 +1,55 @@
+#main {
+        max-width: 100%;
+        max-height: 100%;
+        margin: 30px auto;
+        padding: 15px;
+        background-color: #dddddd;
+        border-radius: 10px;
+        font-family: Segoe UI;
+        font-size: 1.1rem;
+}
+#title {
+        text-align: center;
+}
+#title h1 {
+        font-size: 2.5em;
+}
+#img-div {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 15px;
+        background-color: #ffffff;
+        border-radius: 10px;
+}
+img {
+    max-width: 1000px;;
+    display: block;
+    height: auto;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;}
+#img-caption {
+        text-align: center;
+}
+#tribute-info {
+        max-width: 750px;
+        margin: 0 auto 50px auto;
+}
+#tribute-info h4 {
+        text-align: center;
+}
+#tribute-info ul li {
+    margin-bottom: 10px;
+    line-height: 40px; 
+}
+blockquote{
+    text-align: center;
+    margin-bottom: 10px;
+}
+cite {
+    text-align: center;
+    display: block;
+}
+h3 {
+    text-align: center;
+    margin-top: 50px;
+}
